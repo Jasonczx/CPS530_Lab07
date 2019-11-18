@@ -1,8 +1,7 @@
-<!DOCTYPE>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Draw</title>
+<title>CPS530-LAB07</title>
 <link rel="stylesheet" href="ani.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="ani.js"></script>
@@ -21,7 +20,7 @@ $(document).ready(function(){
 
 </head>
 <body>
-
+<p>Zixuan Chen    500808630</p>
 <button>Start Animation</button>
 
 <img src="PinClipart.com_mr-potato-head-parts_1440968.png">
